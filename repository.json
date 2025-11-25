@@ -1,5 +1,5 @@
 {
   "name": "Cloudflared HTTP2 Add-on",
-  "url": "https://github.com/fazenda-pixel/cloudflared-http2-addon",
+  "url": "https://github.com/fazenda-pixel/cloudflared-http2",
   "maintainer": "fazenda-pixel"
 }
