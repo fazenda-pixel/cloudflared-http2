@@ -2,6 +2,7 @@ name: Cloudflared HTTP2
 version: "1.0.0"
 slug: cloudflared-http2
 description: Cloudflare Tunnel with forced HTTP2 protocol
+image: ""
 arch:
   - amd64
 startup: services
